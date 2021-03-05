@@ -23,9 +23,9 @@ function mostrar()
 	let edadING;
 	let respuesta;
 
-  let nombreMejorProm; // A)
-  let maxMejorProm;
-  let flagMejorProm = 0;
+  	let nombreMejorProm; // A)
+  	let maxMejorProm;
+  	let flagMejorProm = 0;
 
 	let flagJoven = 0; // B)
 	let NombreDelMasJoven;
