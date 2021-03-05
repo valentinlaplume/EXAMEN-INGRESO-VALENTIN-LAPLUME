@@ -72,7 +72,7 @@ function mostrar()
 		}
 
 		sexoING = prompt("Ingrese su sexo. (f o m)");
-		while (sexoING != "f" || sexoING != "m" && isNaN(sexoING) == false)
+		while (sexoING != "f" || sexoING != "m")
 		{
 			sexoING = prompt("INVALIDO. Ingrese su sexo. (f o m)");
 		}
